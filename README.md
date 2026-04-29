@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=180&section=header&text=Érika%20Santos&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Ciência%20de%20Dados%20%7C%20Machine%20Learning%20%7C%20Backend&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee9ca7,100:ffdde1&height=180&section=header&text=Érika%20Santos&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Ciência%20de%20Dados%20%7C%20Machine%20Learning%20%7C%20Backend&descSize=18&descAlignY=60" width="100%"/>
 
 </div>
 
@@ -66,6 +66,6 @@ class Erika:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee9ca7,100:ffdde1&height=100&section=footer" width="100%"/>
 
 </div>
